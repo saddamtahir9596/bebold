@@ -33,7 +33,7 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "gatsby" 
   ],
   "license": "MIT",
   "scripts": {
