@@ -27,7 +27,7 @@
     "react-slick": "^0.20.0",
     "slick-carousel": "^1.8.1",
     "yarn": "^1.22.4",
-    "node": "12.16.2"
+    "node": "^12.16.2"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
